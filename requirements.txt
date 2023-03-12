@@ -1,0 +1,4 @@
+flask[async]==2.1.2
+gunicorn
+requests
+flask_cors
